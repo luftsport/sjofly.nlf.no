@@ -1,0 +1,19 @@
+{{- $page := .page }}
+{{- $coordinates := .coordinates }}
+{{- with $page }}
+    {{ if (eq ($coordinates | len) 2) }}
+        {{- .Page.Store.Set "hasLeaflet" true }}
+
+        <div id="map" style="height: 420px;"></div>
+        
+        <script>
+            const map = L.map('map').setView([{{index $coordinates 0}}, {{index $coordinates 1}}], 13);
+            L.tileLayer('https://opencache.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={z}&x={x}&y={y}', {
+                maxZoom: 20,
+                attribution: 'Map data &copy; <a href="https://www.statkart.no/">Statens Kartverk</a>, <a href="https://www.statkart.no/nor/Land/Fagomrader/Geovekst/">Geovekst</a>, <a href="https://www.statkart.no/?module=Articles;action=Article.publicShow;ID=14194">kommuner</a> og <a href="https://www.npolar.no/">Norsk Polarinstitutt</a>'
+            }).addTo(map);
+
+            const marker = L.marker([{{index $coordinates 0}}, {{index $coordinates 1}}]).addTo(map);
+        </script>
+    {{ end }}
+{{- end }}

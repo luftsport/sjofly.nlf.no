@@ -1,0 +1,54 @@
+{{- $page := .page }}
+{{- $content := .content }}
+{{- with $page }}
+          <article class="chapter">
+            <header class="headline">
+              {{- partial "content-header.html" . }}
+            </header>
+{{ partial "heading-pre.html" . }}
+
+{{ if .Params.Regioner }}
+    {{ range .Params.Regioner }}
+    <div class="article-subheading"><a href="/regioner/{{ . | urlize }}">{{- . -}}</a></div>
+    {{ end }}
+{{ end }}
+
+
+<h1 id="{{ .Title | plainify | anchorize }}">{{ .Title }}</h1>{{ partial "heading-post.html" . }}
+
+{{ partial "shortcodes/badge.html" (dict
+    "page"    .
+    "style" "primary"
+    "content" .Params.Type
+)}}
+
+<ul>
+    <li>GPS: {{ .Params.gps }}</li>
+    <li>Koordinater: {{ .Params.coordinates }}</li>
+    <li>Elevasjon: {{ .Params.elevation }}</li>
+    <li>Landing: {{ .Params.landing }}</li>
+    <li>Docking: {{ .Params.docking }}</li>
+</ul>
+
+{{ if ((isset .Params "warning")) | and (ne .Params.warning "") }}
+{{ partial "shortcodes/notice.html" (dict
+  "page"  .
+  "style" "note"
+  "content" .Params.warning
+)}}
+{{ end }}
+
+{{ $content | safeHTML }}
+
+{{ partial "shortcodes/leaflet.html" (dict
+"page"    .
+"coordinates" .Params.coordinates
+)}}
+
+<i>{{.Params.updated}}</i>
+
+            <footer class="footline">
+              {{- partial "content-footer.html" . }}
+            </footer>
+          </article>
+{{- end }}

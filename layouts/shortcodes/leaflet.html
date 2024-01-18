@@ -1,0 +1,5 @@
+{{- $_hugo_config := `{ "version": 1 }` }}
+{{- partial "shortcodes/leaflet.html" (dict
+  "page"    .Page
+  "coordinates" (.Get "coordinates")
+) }}

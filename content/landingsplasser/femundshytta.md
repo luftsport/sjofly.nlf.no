@@ -7,7 +7,7 @@ regioner: ["Østlandet"]
 gps: "62° 18' 43.776\", 11° 54' 55.296\""
 coordinates: [62.31216,11.91536]
 elevation: "662 m (2172 ft)"
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
 updated: "Sist oppdatert 30. mai 2017 av mikael"

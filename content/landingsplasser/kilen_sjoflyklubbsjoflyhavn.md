@@ -7,7 +7,7 @@ regioner: ["Sjøhavner Oslo - Sørlandet"]
 gps: "59° 53' 34.404\", 10° 35' 54.132\""
 coordinates: [59.89289,10.59837]
 elevation: "0 m (0 ft)"
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "PPR Robert Ian Ormerod Styreleder 91517504"
 updated: "Sist oppdatert 4. juli 2017 av mikael"

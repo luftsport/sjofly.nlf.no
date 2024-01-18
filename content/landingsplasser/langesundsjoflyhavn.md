@@ -7,7 +7,7 @@ regioner: ["Sjøhavner Oslo - Sørlandet"]
 gps: "59° 28.62\", 9° 44' 53.88\""
 coordinates: [59.00795,9.7483]
 elevation: ""
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Småbåthavn"
 warning: "OBS! Sjøflytrafikk fra Bassebo SPB i Langevatnet"
 updated: "Sist oppdatert 8. august 2017 av mikael"

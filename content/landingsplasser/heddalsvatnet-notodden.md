@@ -7,7 +7,7 @@ regioner: ["Hardangervidda"]
 gps: "59° 33' 33.876\", 9° 13' 27.192\""
 coordinates: [59.55941,9.22422]
 elevation: "16 m (52 ft)"
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "OBS ! Notodden Flyplass"
 updated: "Sist oppdatert 2. juni 2017 av mikael"

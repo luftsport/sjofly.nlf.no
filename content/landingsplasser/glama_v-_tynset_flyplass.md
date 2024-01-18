@@ -7,7 +7,7 @@ regioner: ["Østlandet"]
 gps: "62° 15' 29.412\", 10° 40' 2.568\""
 coordinates: [62.25817,10.66738]
 elevation: "480 m (1579 ft)"
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Ukjent"
 warning: "Tynset Traffic 122,30"
 updated: "Sist oppdatert 30. mai 2017 av mikael"

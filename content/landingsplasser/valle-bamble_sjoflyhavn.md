@@ -7,7 +7,7 @@ regioner: ["Sjøhavner Oslo - Sørlandet"]
 gps: "58° 55' 52.104\", 9° 33' 34.74\""
 coordinates: [58.93114,9.55965]
 elevation: ""
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Småbåthavn"
 warning: ""
 updated: "Sist oppdatert 19. juli 2017 av mikael"

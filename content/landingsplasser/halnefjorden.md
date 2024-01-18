@@ -7,7 +7,7 @@ regioner: ["Hardangervidda"]
 gps: "60° 24' 11.3436\", 7° 42' 34.5312\""
 coordinates: [60.403151,7.709592]
 elevation: "1126 m (3694 ft)"
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "Sist oppdatert 16. september 2020 av mikael"
 updated: "Sist oppdatert 16. september 2020 av mikael"

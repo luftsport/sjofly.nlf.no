@@ -7,7 +7,7 @@ regioner: ["Hardangervidda"]
 gps: "58° 56' 34.656\", 7° 41' 25.62\""
 coordinates: [58.94296,7.69045]
 elevation: "203 m (666 ft)"
-landing: "Ukjent"
+landing: "Kun ved avtale"
 docking: "Strand"
 warning: "Landing for besøkende til Ose Motorfestival i august: http://www.osemotorfestival.no/"
 updated: "Sist oppdatert 11. desember 2018 av mikael"

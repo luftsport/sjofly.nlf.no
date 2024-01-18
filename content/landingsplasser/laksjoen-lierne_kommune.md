@@ -7,7 +7,7 @@ regioner: ["Nordland og Trøndelag"]
 gps: "64° 27' 42.624\", 13° 34' 21.252\""
 coordinates: [64.46184,13.57257]
 elevation: "398 m (1305 ft)"
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Ukjent"
 warning: "Laksjøen i området utenfor Sandvika"
 updated: "Sist oppdatert 2. juni 2017 av mikael"

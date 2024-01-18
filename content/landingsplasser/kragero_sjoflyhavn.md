@@ -7,7 +7,7 @@ regioner: ["Sjøhavner Oslo - Sørlandet"]
 gps: "58° 51' 55.548\", 9° 24' 38.304\""
 coordinates: [58.86543,9.41064]
 elevation: ""
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Småbåthavn"
 warning: "Restriksjoner Jomfruland !"
 updated: "Sist oppdatert 9. august 2017 av mikael"

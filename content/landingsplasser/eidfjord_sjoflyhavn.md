@@ -7,7 +7,7 @@ regioner: ["Sjøhavner Vestlandet - SØR"]
 gps: "60° 28' 14.7\", 7° 3' 41.256\""
 coordinates: [60.47075,7.06146]
 elevation: ""
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Flytebrygge"
 warning: ""
 updated: "Sist oppdatert 31. mai 2017 av mikael"

@@ -7,7 +7,7 @@ regioner: ["Sjøhavner Vestlandet - NORD"]
 gps: "61° 52' 8.76\", 6° 50' 15.396\""
 coordinates: [61.8691,6.83761]
 elevation: ""
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Småbåthavn"
 warning: ""
 updated: "Sist oppdatert 31. mai 2017 av mikael"

@@ -7,7 +7,7 @@ regioner: ["Sjøhavner Oslo - Sørlandet"]
 gps: "58° 11' 54.204\", 8° 4' 16.212\""
 coordinates: [58.19839,8.07117]
 elevation: ""
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "Kjevik Flyplass - kontakt tårnet 119,95"
 updated: "Sist oppdatert 31. mai 2017 av mikael"

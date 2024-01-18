@@ -7,7 +7,7 @@ regioner: ["Hardangervidda"]
 gps: "59° 49' 14.448\", 7° 11' 7.8\""
 coordinates: [59.82068,7.1855]
 elevation: "978 m (3208 ft)"
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "Kontakt Haukeliseter for bruk av brygge"
 updated: "Sist oppdatert 5. desember 2018 av mikael"

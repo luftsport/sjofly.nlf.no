@@ -7,7 +7,7 @@ regioner: ["Nordland og Trøndelag"]
 gps: "64° 29' 18.492\", 13° 53' 41.82\""
 coordinates: [64.48847,13.89495]
 elevation: "319 m (1046 ft)"
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Ukjent"
 warning: "Kvesjøen i området ved Kvemotangen"
 updated: "Sist oppdatert 2. juni 2017 av mikael"

@@ -7,7 +7,7 @@ regioner: ["Nordland og Trøndelag"]
 gps: "63° 14' 20.004\", 10° 57' 17.064\""
 coordinates: [63.23889,10.95474]
 elevation: "157 m (515 ft)"
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "Husk Jonsvatnet er stengt for fly"
 updated: "Sist oppdatert 7. desember 2018 av mikael"

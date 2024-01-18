@@ -7,7 +7,7 @@ regioner: ["Jotunheimen"]
 gps: "62° 39.78\", 7° 36' 31.356\""
 coordinates: [62.01105,7.60871]
 elevation: "898 m (2946 ft)"
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
 updated: "Sist oppdatert 30. mai 2017 av mikael"

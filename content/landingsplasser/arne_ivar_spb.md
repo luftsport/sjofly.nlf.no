@@ -7,7 +7,7 @@ regioner: ["Jotunheimen"]
 gps: "61° 7' 56.388\", 8° 54' 39.852\""
 coordinates: [61.13233,8.91107]
 elevation: "365 m (1197 ft)"
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Strand"
 warning: "Slidrefjorden"
 updated: "Sist oppdatert 12. juni 2017 av mikael"

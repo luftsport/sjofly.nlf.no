@@ -7,7 +7,7 @@ regioner: ["Hardangervidda"]
 gps: "59° 20' 30.4087\", 8° 6' 36.0925\""
 coordinates: [59.3417802,8.1100257]
 elevation: "340 m (1115 ft)"
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Ukjent"
 warning: "Sist oppdatert 5. februar 2021 av mikael"
 updated: "Sist oppdatert 5. februar 2021 av mikael"

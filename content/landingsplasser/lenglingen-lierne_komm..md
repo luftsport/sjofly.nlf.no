@@ -7,7 +7,7 @@ regioner: ["Nordland og Trøndelag"]
 gps: "64° 13' 17.148\", 13° 48' 23.724\""
 coordinates: [64.22143,13.80659]
 elevation: "354 m (1161 ft)"
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Ukjent"
 warning: "Lenglingen i området utenfor Devika samt Mebygda"
 updated: "Sist oppdatert 2. juni 2017 av mikael"

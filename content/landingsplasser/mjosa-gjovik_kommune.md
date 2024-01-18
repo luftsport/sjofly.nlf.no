@@ -7,7 +7,7 @@ regioner: ["Østlandet"]
 gps: "60° 45' 35.568\", 10° 46' 4.62\""
 coordinates: [60.75988,10.76795]
 elevation: "123 m (403 ft)"
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "OBS! Totenviken er naturreservat !"
 updated: "Sist oppdatert 1. juni 2017 av mikael"

@@ -7,7 +7,7 @@ regioner: ["Sjøhavner Vestlandet - NORD"]
 gps: "60° 52' 7.428\", 5° 5' 57.732\""
 coordinates: [60.86873,5.09937]
 elevation: "13 m (42 ft)"
-landing: "Ukjent"
+landing: "Kun ved avtale"
 docking: "Flytebrygge"
 warning: ""
 updated: "Sist oppdatert 6. august 2017 av mikael"

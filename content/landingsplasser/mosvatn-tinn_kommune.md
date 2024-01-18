@@ -7,7 +7,7 @@ regioner: ["Hardangervidda"]
 gps: "59° 50' 45.672\", 8° 12' 45.432\""
 coordinates: [59.84602,8.21262]
 elevation: "918 m (3011 ft)"
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "Mye kommersiell trafikk med C-206"
 updated: "Sist oppdatert 5. desember 2018 av mikael"

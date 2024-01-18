@@ -7,7 +7,7 @@ regioner: ["Nordland og Trøndelag"]
 gps: "64° 9' 14.328\", 13° 51' 32.76\""
 coordinates: [64.15398,13.8591]
 elevation: "345 m (1131 ft)"
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Ukjent"
 warning: "Ulen i området ved industriområdet"
 updated: "Sist oppdatert 2. juni 2017 av mikael"

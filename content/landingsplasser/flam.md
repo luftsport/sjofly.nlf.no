@@ -7,7 +7,7 @@ regioner: ["Sjøhavner Vestlandet - NORD"]
 gps: "60° 51' 53.136\", 7° 7' 26.688\""
 coordinates: [60.86476,7.12408]
 elevation: ""
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Småbåthavn"
 warning: "OBS Nærøyfjorden LVO like ved"
 updated: "Sist oppdatert 18. januar 2019 av mikael"

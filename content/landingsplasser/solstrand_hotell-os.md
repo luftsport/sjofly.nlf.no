@@ -7,7 +7,7 @@ regioner: ["Sjøhavner Vestlandet - SØR"]
 gps: "60° 11' 11.184\", 5° 29' 4.164\""
 coordinates: [60.18644,5.48449]
 elevation: ""
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
 updated: "Sist oppdatert 31. mai 2017 av mikael"

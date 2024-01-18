@@ -7,7 +7,7 @@ regioner: ["Sjøhavner Vestlandet - NORD"]
 gps: "60° 46' 53.904\", 4° 42' 43.92\""
 coordinates: [60.78164,4.7122]
 elevation: ""
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "OBS! FERGE TRAFIKK INNE I VÅGEN, BØLGE-PROBLEM!"
 updated: "Sist oppdatert 18. januar 2019 av mikael"

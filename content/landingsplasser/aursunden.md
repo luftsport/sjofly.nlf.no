@@ -7,7 +7,7 @@ regioner: ["Nordland og Trøndelag"]
 gps: "62° 40' 10.164\", 11° 39' 7.128\""
 coordinates: [62.66949,11.65198]
 elevation: "691 m (2267 ft)"
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Ukjent"
 warning: "OBS! Vannet ligger inne i Røros TMA "
 updated: "Sist oppdatert 2. juni 2017 av mikael"

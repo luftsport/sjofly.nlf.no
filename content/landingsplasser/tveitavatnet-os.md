@@ -7,7 +7,7 @@ regioner: ["Hardangervidda"]
 gps: "60° 13' 27.84\", 5° 32' 11.256\""
 coordinates: [60.2244,5.53646]
 elevation: "61 m (200 ft)"
-landing: "Ukjent"
+landing: "Kun ved avtale"
 docking: "Strand"
 warning: "Høy antennemast og spenn i vestre del."
 updated: "Sist oppdatert 8. juni 2017 av mikael"

@@ -7,7 +7,7 @@ regioner: ["Østlandet"]
 gps: "60° 44' 55.536\", 10° 14' 10.176\""
 coordinates: [60.74876,10.23616]
 elevation: "134 m (439 ft)"
-landing: "Ukjent"
+landing: "Kun ved avtale"
 docking: "Flytebrygge"
 warning: "PPR: Lars Nordråk +47 414 11 642"
 updated: "Sist oppdatert 2. juni 2017 av mikael"

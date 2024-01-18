@@ -7,7 +7,7 @@ regioner: ["Nordland og Trøndelag"]
 gps: "64° 14' 8.304\", 12° 14' 24.504\""
 coordinates: [64.23564,12.24014]
 elevation: "23 m (76 ft)"
-landing: "Ukjent"
+landing: "Kun ved avtale"
 docking: "Ukjent"
 warning: "Restriksjoner. Les Lovdata !"
 updated: "Sist oppdatert 30. mai 2017 av mikael"

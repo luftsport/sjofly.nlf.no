@@ -7,7 +7,7 @@ regioner: ["Finnmark"]
 gps: "70° 11' 14.1\", 24° 21' 33.336\""
 coordinates: [70.18725,24.35926]
 elevation: "294 m (964 ft)"
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
 updated: "Sist oppdatert 2. juni 2017 av mikael"

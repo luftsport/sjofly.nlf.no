@@ -7,7 +7,7 @@ regioner: ["Sjøhavner Vestlandet - NORD"]
 gps: "61° 13' 52.212\", 7° 6' 31.176\""
 coordinates: [61.23117,7.10866]
 elevation: ""
-landing: "Ukjent"
+landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "NB ! SPENN I SOGNDALS FJORDEN !"
 updated: "Sist oppdatert 31. mai 2017 av mikael"

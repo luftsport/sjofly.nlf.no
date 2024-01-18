@@ -7,7 +7,7 @@ regioner: ["Østlandet"]
 gps: "60° 44' 48.444\", 10° 32' 25.728\""
 coordinates: [60.74679,10.54048]
 elevation: "432 m (1417 ft)"
-landing: "Ukjent"
+landing: "Kun på islagt vann"
 docking: "Ukjent"
 warning: "fly i tiden 1. januar til 30. april"
 updated: "Sist oppdatert 1. juni 2017 av mikael"

@@ -1,0 +1,24 @@
+{{- $page := .page }}
+{{- $coordinates := .coordinates }}
+{{- with $page }}
+    <div id="map" style="height: 800px;"></div>
+            
+    <script>
+        const map = L.map('map').setView([60,7], 7);
+        L.tileLayer('https://opencache.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={z}&x={x}&y={y}', {
+            maxZoom: 20,
+            attribution: 'Map data &copy; <a href="https://www.statkart.no/">Statens Kartverk</a>, <a href="https://www.statkart.no/nor/Land/Fagomrader/Geovekst/">Geovekst</a>, <a href="https://www.statkart.no/?module=Articles;action=Article.publicShow;ID=14194">kommuner</a> og <a href="https://www.npolar.no/">Norsk Polarinstitutt</a>'
+        }).addTo(map);
+
+        {{ $counter := 0 }}
+        {{- range .Pages -}}
+            {{ if (eq (.Params.Coordinates | len) 2) }}
+                {{ $counter = add $counter 1 }}
+                const {{ safeJS ($counter | printf "%s%d" "marker") }} = L.marker([{{index .Params.Coordinates 0}}, {{index .Params.Coordinates 1}}]).addTo(map);
+                {{ safeJS ($counter | printf "%s%d" "marker") }}.bindPopup("<strong>{{- .Title -}}</strong><br /><a href='{{- .Permalink -}}'>Detaljer</a>").openPopup();
+            {{ end }}
+        {{ end }}
+    </script>
+
+    
+{{- end }}

@@ -273,7 +273,7 @@ disableMermaid = true
 disableOpenapi = true
 
 [params.relearn.dependencies]
-[params.relearn.dependencies.leaflet]
+[params.relearn.dependencies.Leaflet]
 name = "Leaflet"
 location = "header"
 

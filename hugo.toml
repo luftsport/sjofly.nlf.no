@@ -267,15 +267,9 @@ externalLinkTarget = "_blank"
 # not be servable from the file system.
 disableExplicitIndexURLs = false
 
-
 disableMathJax = true
 disableMermaid = true
 disableOpenapi = true
-
-[params.relearn.dependencies]
-[params.relearn.dependencies.Leaflet]
-name = "Leaflet"
-location = "header"
 
 [[menu.shortcuts]]
 name = "Regioner"

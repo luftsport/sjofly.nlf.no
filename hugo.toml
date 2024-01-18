@@ -283,8 +283,7 @@ url = "/regioner"
 weight = 1
 
 [outputs]
-home = ["HTML", "RSS", "SEARCH"]
+home = ["HTML", "SEARCH"]
 
 [taxonomies]
 region = 'regioner'
-tag = 'tags'

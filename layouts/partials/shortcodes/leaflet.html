@@ -2,7 +2,7 @@
 {{- $coordinates := .coordinates }}
 {{- with $page }}
     {{ if (eq ($coordinates | len) 2) }}
-        {{- .Page.Store.Set "hasLeaflet" true }}
+        {{- .Store.Set "hasLeaflet" true }}
 
         <div id="map" style="height: 420px;"></div>
         

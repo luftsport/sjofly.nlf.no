@@ -16,6 +16,11 @@
 
 <h1 id="{{ .Title | plainify | anchorize }}">{{ .Title }}</h1>{{ partial "heading-post.html" . }}
 
+{{ partial "shortcodes/leaflet.html" (dict
+"page"    .
+"coordinates" .Params.coordinates
+)}}
+
 {{ partial "shortcodes/badge.html" (dict
     "page"    .
     "style" "primary"
@@ -39,11 +44,6 @@
 {{ end }}
 
 {{ $content | safeHTML }}
-
-{{ partial "shortcodes/leaflet.html" (dict
-"page"    .
-"coordinates" .Params.coordinates
-)}}
 
 <i>{{.Params.updated}}</i>
 

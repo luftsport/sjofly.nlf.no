@@ -18,7 +18,7 @@ KLIKK på markør for mer info:
 - **Blå markør innlandsvann** for almen bruk.
 Svenska sjöflygföreningen sina hamner med lys blå og gul. (http://www.swedishseaplane.se/sv/)
 
-Her kan du laste ned [VFR Guide Norge](http://luftfartstilsynet.no/selvbetjening/allmennfly/VFR-guiden_for_2017) og her kan du finne [IPPC](https://www.ippc.no/ippc/index.jsp).
+Her kan du laste ned [VFR Guide Norge](https://luftfartstilsynet.no/allmenfly-og-luftsport/good-aviation-practice/vfr-guiden/) og her kan du finne [IPPC](https://www.ippc.no/ippc/index.jsp).
 
 KML fil format fra GoogleMap kan lett konverteres til GPX format for lasting til airnavPro/iPad eller Fly-is-Fun etc.
 

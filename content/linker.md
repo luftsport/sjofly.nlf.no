@@ -17,7 +17,7 @@ alias:
 - [Norske web-cam oversikt](http://www.webkameraerinorge.com/webcams.php)
 - [Steinars hangar: oversikt over norske sjøfly](http://www.seabee.info/seaplanes.htm)
 - [SAFE - Seaplane Association's Federation Europe (2003, 2005)](http://aksdal.no/safe)
-- [SSA - Svenska sjøflyg föreningen](http://www.swedishseaplane.se/sv/)
+- [SSA - Svenska sjøflyg föreningen](https://swedishseaplane.se)
 - [Finske ski- & sjøfly foreningen](http://vesilento.com/in-english)
 - [Franske sjøflyforeningen](http://www.association-francaise-hydraviation.fr/)
 - [Aero Club COMO](https://www.aeroclubcomo.com/Home/tabid/36/language/en-US/Default.aspx)

@@ -10,7 +10,7 @@ elevation: "957 m (3139 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 2. juni 2017 av mikael"
+updated: "Sist oppdatert januar 2024 av mikael"
 aliases:
 - /vann/67
 ---

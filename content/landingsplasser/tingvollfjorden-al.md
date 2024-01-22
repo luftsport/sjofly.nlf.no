@@ -22,6 +22,6 @@ Taxi/Mat/Overnatting:
 ## Lovdata
 
 Lovdata: Etter søknad kan det gjevast løyve til landing på andre stader enn på dei store vatna i Ål der det er tillatt (sjå under).Det er lov å lande og starte på følgjande vatn i Ål:\
-Rødungen (sør) - Stolsvassmagasinet i Djup - Rødungen (nord) - Strandafjorden (unnateke øvste 1/3 del, dvs nærmast Kleivi) - Flævatn/Gyrinosvatnet – Vatsfjorden – Bergsjøen - Tingvollfjorden\
+Rødungen (sør) - Stolsvassmagasinet i Djup - Strandafjorden (unnateke øvste 1/3 del, dvs nærmast Kleivi) - Flævatn/Gyrinosvatnet – Vatsfjorden – Bergsjøen - Tingvollfjorden\
 Kommunestyrevedtak 
 https://lovdata.no/forskrift/2020-06-11-1365/§7

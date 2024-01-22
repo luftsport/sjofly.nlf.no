@@ -1,5 +1,5 @@
 ---
-title: "Motorferdselloven"
+title: "Motorferdsel loven"
 weight: 4
 alias:
 - /node/59

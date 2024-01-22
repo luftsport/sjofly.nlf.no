@@ -1,7 +1,7 @@
 ---
 archetype: "location"
 id: 81
-title: "Tunhovdfjorden"
+title: "Tunhovd fjorden"
 type: "Innlandsvann"
 regioner: ["Hardangervidda"]
 gps: "60° 23' 34.152\", 8° 52' 1.164\""

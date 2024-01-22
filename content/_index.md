@@ -18,7 +18,7 @@ NLF ski-& sjøfly komiteen, post@nlf.no .
 
 ### Kjøpe sjøflyhåndboken ?
 
-Send e-post til melwin@nlf.no med navn, adresse og hvilke bøker du ønsker.\
+Send e-post til post@nlf.no med navn, adresse og hvilke bøker du ønsker.\
 Pris kr. 400,- pluss porto kr. 100,- for sjøflyhåndboken del 1\
 Pris kr. 350,- pluss porto kr. 90,- for sjøflyhåndboken del 2\
 Bestilles begge er prisen kr. 600,- pluss porto kr. 200,-

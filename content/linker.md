@@ -20,7 +20,7 @@ alias:
 - [SSA - Svenska sjøflyg föreningen](https://swedishseaplane.se)
 - [Finske ski- & sjøfly foreningen](http://vesilento.com/in-english)
 - [Franske sjøflyforeningen](http://www.association-francaise-hydraviation.fr/)
-- [Aero Club COMO](https://www.aeroclubcomo.com/Home/tabid/36/language/en-US/Default.aspx)
+- [Aero Club COMO](https://aeroclubcomo.com/en/)
 - [Aero Club Como WEB-CAM](http://rete.centrometeolombardo.com/Como/co_aeroclub/immagini/kabcam.jpg)
 - [S P A - usa](https://www.seaplanepilotsassociation.org/)
 - [International Splash-In, Greenville, Main US](https://www.seaplanefly-in.org/)

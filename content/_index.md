@@ -25,6 +25,6 @@ Bestilles begge er prisen kr. 600,- pluss porto kr. 200,-
 
 Bøkene kan også utleveres i Møllergata 39 i Oslo mellom kl. 08 – 15.
 
-> Only seaplanes and canoes can visit a wilderness and leave no trace at all
+> <em>Only seaplanes and canoes can visit a wilderness and leave no trace at all</em>
 
 ![Sjøflyhåndboka](/images/sjoflyhandboka.jpg)

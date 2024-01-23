@@ -1,7 +1,7 @@
 ---
 archetype: "location"
 id: 124
-title: "Halnefjorden"
+title: "Halne fjorden"
 type: "Innlandsvann"
 regioner: ["Hardangervidda"]
 gps: "60° 24' 11.3436\", 7° 42' 34.5312\""

@@ -4,7 +4,7 @@ title: "Sjøfly­håndboken"
 ---
 
 ## Velkommen til sjøflyhåndboken. 
-(en del vann oppdatert pr januar 2024)
+(<em>en del vann oppdatert pr januar 2024</em>)
 
 Norges luftsportforbund (NLF), Ski- & sjøfly komiteen har utgitt denne oversikt over vann som kan benyttes av sjøfly i Norge. Vi har en lov i Norge som regulerer motorferdsel i utmark. Noen kommuner har frigjort enkelte vann og gitt tillatelse til bruk av fly med visse betingelser. Dette er offentliggort i Lovdata og her har vi plukket de vann som vi har funnet og vist de på Google map og her i denne håndboken. En del tips til sjø havner har vi også lagt ut her og er i Sjøflyhåndboken del 2.
 Vi ønsker å komme med mer utfyllende opplysninger om hvert vann og hver havn, så dersom du vil gi oss tilbakemelding, setter vi stor pris på det. Bruk gjerne kontakt skjema via Kontakt , nederst på hver side. Oppdateringer vil bli tilgjengelig på internett etter hvert.

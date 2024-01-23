@@ -10,7 +10,7 @@ elevation: "971 m (3185 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 30. mai 2017 av mikael"
+updated: "Sist oppdatert januar 2024 av mikael"
 aliases:
 - /vann/49
 ---
@@ -18,10 +18,11 @@ aliases:
 Radio: 123,50\
 Vær: http://www.tyinfilefjell.no/kamera/weather/index.html\
 Webcam: http://www.webkameraerinorge.com/webcams.php?viewcam=1977\
-Fuel:  MoGas i Tyin krysset      Taxi:\
+Fuel:  MoGas i Tyin krysset  
+Taxi:\
 Mat/Seng: Tyinkrysset www.tyin.no tlf. 6136 7800\
 Valdres F K og Hallingdal F K har fjell leir med\
-flyging på isen med motorfly, mikrofly og seilfly,\
+flyging på isen med motorfly, sportsfly og seilfly,\
 uka rundt 1. mai hvert år.
 
 ## Lovdata

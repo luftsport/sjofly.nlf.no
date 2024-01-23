@@ -28,4 +28,4 @@ Bøkene kan også utleveres i Møllergata 39 i Oslo mellom kl. 08 – 15.
 > **_Only seaplanes and canoes can visit a wilderness
 > and leave no trace at all_**
 
-![Sjøflyhåndboka](/images/sjoflyhandboka.jpg)
+![Sjøflyhåndboken](/images/sjoflyhandboka.jpg)

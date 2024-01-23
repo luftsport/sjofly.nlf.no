@@ -26,7 +26,7 @@ Det er vanligvis Splash-In ved Oset i slutten av september hvert år
 
 Lovdata: Det vert gjeve generelt løyve til:\
 a. ferdsle med luftfartøy på - Tisleifjorden\
-(vestre del).http://lovdata.no/for/lf/mv/xv-19990930-1101.html\
+(vestre del).
 Nord-Aurdal: Bestemmelser i medhold av\
 motorferdselloven § 5 (gjelder i den tiden\
 innsjøene er isfrie): Adgang til landing og\

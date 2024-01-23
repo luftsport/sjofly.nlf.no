@@ -1,6 +1,6 @@
 ---
 archetype: "home"
-title: "Sjøfly­håndboka"
+title: "Sjøfly­håndboken"
 ---
 
 ## Velkommen til sjøflyhåndboken. 

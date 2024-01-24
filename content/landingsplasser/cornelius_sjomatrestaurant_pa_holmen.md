@@ -17,5 +17,5 @@ aliases:
 
 Radio: Flesland TWR 119.10\
 Brygge: Katlavika 14, 5177 Bjørøyhamn tel +47 56 33 48 80\
-http://www.corneliusrestaurant.no +47 56 33 48 80\
+http://www.corneliusrestaurant.no 
 

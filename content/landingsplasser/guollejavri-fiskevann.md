@@ -1,7 +1,7 @@
 ---
 archetype: "location"
 id: 2
-title: "Guollejávri/fiskevann"
+title: "Guollejávri/ Fiskevann"
 type: "Innlandsvann"
 regioner: ["Finnmark"]
 gps: "69° 58' 59.7\", 25° 22' 49.08\""

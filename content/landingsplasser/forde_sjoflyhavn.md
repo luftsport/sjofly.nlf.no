@@ -10,7 +10,7 @@ elevation: ""
 landing: "Tillatt"
 docking: "Flytebrygge"
 warning: ""
-updated: "Sist oppdatert 31. mai 2017 av mikael"
+updated: "Sist oppdatert Januar 2024 av mikael"
 aliases:
 - /vann/128
 ---
@@ -20,6 +20,4 @@ Fuel:\
 Taxi:\
 Brygge: GML BETONG FLYTEKAI (TAXE LANGS LAND NORDSIDEN I ELVEN, - MINDRE STRØM)\
 Mat: / Overnatting: FØRDE SENTRUM\
- Kart: INNRINGET HANGAR TIL TOR HENRIK EIKEFJORD,\
- C-206 LN-LMQ tel. +47 47836086.\
 Juni-17: Det er en ny sandbanke ved utløpet av Jølstra rett utenfor den røde bua akkurat mellom sjø og elv, Med et våkent øye så kan du se det i strømmen .På fjære sjø er det tørt land der

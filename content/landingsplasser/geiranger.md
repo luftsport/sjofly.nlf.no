@@ -9,7 +9,7 @@ coordinates: [62.10283,7.20467]
 elevation: ""
 landing: "Tillatt"
 docking: "Småbåthavn"
-warning: "Sist oppdatert 18. januar 2019 av mikael"
+warning: ""
 updated: "Sist oppdatert 18. januar 2019 av mikael"
 aliases:
 - /vann/222

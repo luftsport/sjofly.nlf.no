@@ -9,7 +9,7 @@ coordinates: [60.47075,7.06146]
 elevation: ""
 landing: "Tillatt"
 docking: "Flytebrygge"
-warning: ""
+warning: "Lokal sports sjøfly trafikk fra Simadalen LN-YAV"
 updated: "Sist oppdatert 31. mai 2017 av mikael"
 aliases:
 - /vann/155
@@ -20,4 +20,4 @@ Fuel:\
 Taxi:\
 Brygge: BRYGGER VED HOTELL OG I SMÅBÅTHAVN\
 Mat: / Overnatting: HOTELLER OG KAFEER\
- Kart:  Lokal mikro-sjøfly trafikk fra Simadalen LN-YAV
+

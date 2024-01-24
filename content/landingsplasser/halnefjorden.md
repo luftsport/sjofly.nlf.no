@@ -9,7 +9,7 @@ coordinates: [60.403151,7.709592]
 elevation: "1126 m (3694 ft)"
 landing: "Tillatt"
 docking: "Flytebrygge"
-warning: "Sist oppdatert 16. september 2020 av mikael"
+warning: ""
 updated: "Sist oppdatert 16. september 2020 av mikael"
 aliases:
 - /vann/240

@@ -10,7 +10,7 @@ elevation: "16 m (52 ft)"
 landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "OBS ! Notodden Flyplass"
-updated: "Sist oppdatert 2. juni 2017 av mikael"
+updated: "Sist oppdatert januar 2024 av mikael"
 aliases:
 - /vann/81
 ---
@@ -19,10 +19,7 @@ Radio: Notodden Afis 118,80\
 Fuel: 100LL (MoGas 5 min)\
 Taxi: Notodden\
 Overnatting: Camping eller Notodden\
-BRUK av Notodden Sjøflybase (instruks på www.notodden-flyplass.no )\
-Følgende lokalt regelverk gjelder for sjøflyging Notodden:\
- Flyplasshåndbok, Notodden Sjøflyhavn \
-Kart sjøflyhavn start- og landingsområde med hinderflater
+BRUK av Notodden Sjøflybase (instruks på www.notoddenlufthavn.no )\
 
 ## Lovdata
 

@@ -10,14 +10,13 @@ elevation: "1057 m (3468 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 30. mai 2017 av mikael"
+updated: "Sist oppdatert januar 2024 av mikael"
 aliases:
 - /vann/47
 ---
 
 Radio: 123,50\
-Vær: http://www.yr.no/sted/Norge/Oppland/Vang/Eidsbugarden/\
-Webcam: http://www.jvb.no/no/destinasjoner/eidsbugarden/Webkamera+Eidsbugarden…\
+Webcam: https://jvb.no/webkamera-eidsbugarden\
 Fuel:\
 Taxi:\
 Mat/seng: https://fondsbu.dnt.no/  Tlf. 970 74 218

@@ -21,7 +21,7 @@ Taxi/Mat/Overnatting:
 
 ## Lovdata
 
-Lovdata: Landing og start med luftfartøy på Botnen er tillatt.\
+Lovdata:\
 Bruk av luftfartøy forøvrig må bare skje etter særskilt tillatelse på grunnlag av søknad med begrunnet behov.\
 Tillatelsen kan tidsbegrenses.\
-http://www.lovdata.no/cgi-wift/wiftldles?doc=/app/gratis/www/docroot/fo…;
+

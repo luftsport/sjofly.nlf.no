@@ -10,7 +10,7 @@ elevation: ""
 landing: "Tillatt"
 docking: "Småbåthavn"
 warning: "OBS Nærøyfjorden LVO like ved"
-updated: "Sist oppdatert 18. januar 2019 av mikael"
+updated: "Sist oppdatert januar 2024 av mikael"
 aliases:
 - /vann/208
 ---

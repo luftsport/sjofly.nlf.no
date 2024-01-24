@@ -7,7 +7,7 @@ regioner: ["Nordland og Trøndelag"]
 gps: "63° 34' 44.832\", 9° 58' 7.356\""
 coordinates: [63.57912,9.96871]
 elevation: ""
-landing: "Tillatt"
+landing: "ikke lenger tillatt. Det må søkes for hver tur"
 docking: "Ukjent"
 warning: "OBS! Tidevann"
 updated: "Sist oppdatert 30. mai 2017 av mikael"

@@ -16,7 +16,7 @@ aliases:
 ---
 
 Radio: Tynset Traffic 122,30\
-Fuel: http://www.tynsetflyklubb.no/flyplassen.htm\
+Operativt: https://www.tynsetflyklubb.no/operativt
 Taxi/Mat/Overnatting:
 
 ## Lovdata

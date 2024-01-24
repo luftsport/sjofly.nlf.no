@@ -10,9 +10,9 @@ elevation: ""
 landing: "Tillatt"
 docking: "Flytebrygge"
 warning: ""
-updated: "Sist oppdatert 18. januar 2019 av mikael"
+updated: "Sist oppdatert januar 2024 av mikael"
 aliases:
 - /vann/220
 ---
 
-Dampen serveringstad på FB
+Dampen serveringstad på FB: https://www.facebook.com/profile.php?id=100071139833748&__cft__[0]=AZVgu9dPSkPxMRZ6qxrduIue6CXZJoXw5gc1-iZsUCenKk3WJuoYrCdq4dOsa_9JDegchDPkcPqZtayoUkkoz-RC_mwiRIY8XW4tGSUxSs2I-w2TcCpJsON4jjEJGYs_2iH8UGhmwXZQUy9li8TNU1vpUToPyBHBaC-oGc_fVKKlSr8uNFCY3pVnLz0JRc98BTk45VQjrAoRhvsYVElRV9IX&__tn__=-]K-R

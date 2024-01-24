@@ -29,5 +29,4 @@ Dette gjeld både på ope og islagd vatn.\
 På Tyin er det likevel ikkje lov å lande innafor ei\
 sone på 3 km frå Tyinosen (avgrensing Smogelva\
 og Reikesteinsøddin).\
-http://lovdata.no/cgi-wift/wiftldles?doc=/app/gratis/www/docroot/for/lf…-\
-4874.html&emne=for-1988-05-15-356&&
+https://lovdata.no/forskrift/2002-06-27-4874

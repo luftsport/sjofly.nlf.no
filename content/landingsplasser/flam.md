@@ -21,4 +21,4 @@ Opplev Flåm Zipline, den lengste ziplinen i norden på hele 1381 meter. Kjenn p
 ## Lovdata
 
 Vær obs på grensen til Nærøyfjordens landskapsvernområde\
-http://www.nasjonalparkstyre.no/Documents/Nærøyfjorden_dok/Planer%20og%…
+https://www.nasjonalparkstyre.no/naroyfjorden/verneomrader/naeroyfjorden-landskapsvernomrade

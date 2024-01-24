@@ -17,5 +17,5 @@ aliases:
 
 Radio:\
 Fuel:\
-Taxi/ Mat/Overnatting: http://vertshuset-sydvesten.no\
+Taxi/ Mat/Overnatting: \
 Brygge: SMÅBÅTHAVN

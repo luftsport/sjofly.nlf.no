@@ -1,6 +1,6 @@
 baseURL = 'https://sjofly.nlf.no/'
 languageCode = 'nb-no'
-title = 'Sjøflyhåndboka'
+title = 'Sjøflyhåndboken'
 theme = "hugo-theme-relearn"
 
 custom_css = ["css/leaflet.css"]

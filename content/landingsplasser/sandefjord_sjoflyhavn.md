@@ -9,7 +9,7 @@ coordinates: [59.1261,10.22552]
 elevation: ""
 landing: "Tillatt"
 docking: "Flytebrygge"
-warning: "Sist oppdatert 31. mai 2017 av mikael"
+warning: ""
 updated: "Sist oppdatert 31. mai 2017 av mikael"
 aliases:
 - /vann/171

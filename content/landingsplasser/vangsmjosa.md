@@ -10,14 +10,14 @@ elevation: "466 m (1528 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 30. mai 2017 av mikael"
+updated: "Sist oppdatert januar 2024 av mikael"
 aliases:
 - /vann/50
 ---
 
 Radio: 123,50\
 Vær: http://www.yr.no/sted/Norge/Oppland/Vang/Vang/\
-Webcam: http://www.webcamsinnorway.com/webcams.php?viewcam=154\
+Webcam:
 Fuel:\
 Taxi:\
 Mat/seng:
@@ -30,5 +30,5 @@ Dette gjeld både på ope og islagd vatn. På Tyin er\
 det likevel ikkje lov å lande innafor ei sone på 3 km\
 frå Tyinosen\
 (avgrensing Smogelva og Reikesteinsøddin).\
-http://lovdata.no/cgi-wift/wiftldles?doc=/app/gratis/www/docroot/for/lf…-\
-4874.html&emne=for-1988-05-15-356&&amp
+
+	LOV-2015-06-19-67 fra 19.06.2021, LOV-2021-05-07-34 fra 01.06.2021

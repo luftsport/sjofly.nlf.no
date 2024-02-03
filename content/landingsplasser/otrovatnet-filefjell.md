@@ -16,8 +16,8 @@ aliases:
 ---
 
 Radio: 123,50\
-Vær: http://www.tyinfilefjell.no/kamera/weather/index.html\
-Webcam: http://www.webkameraerinorge.com/webcams.php?viewcam=1977\
+Vær: 
+Webcam:
 Fuel:  MoGas i Tyin krysset  
 Taxi:\
 Mat/Seng: Tyinkrysset www.tyin.no tlf. 6136 7800\
@@ -27,11 +27,12 @@ uka rundt 1. mai hvert år.
 
 ## Lovdata
 
+	LOV-2015-06-19-67 fra 19.06.2021, LOV-2021-05-07-34 fra 01.06.2021
+
 Lovdata: Landing og start med luftfartøy er\
 tillatt på vatna Otrøvatnet, Tyin, Bygdin og\
 Vangsmjøsa. Dette gjeld både på ope og\
 islagd vatn. På Tyin er det likevel ikkje lov\
 å lande innafor ei sone på 3 km frå Tyinosen\
 (avgrensing Smogelva og Reikesteinsøddin).\
-http://lovdata.no/cgi-wift/wiftldles?doc=/app/gratis/www/docroot/for/lf…\
--4874.html&emne=for-1988-05-15-356&&amp
+

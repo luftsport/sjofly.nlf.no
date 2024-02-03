@@ -6,7 +6,7 @@ type: "Innlandsvann"
 regioner: ["Hardangervidda"]
 gps: "59° 40' 51.276\", 8° 7' 6.78\""
 coordinates: [59.68091,8.11855]
-elevation: "697 m (2286 ft)"
+elevation: "697m (2286 ft)"
 landing:" kun komersiell flyging "
 docking: "Ukjent"
 warning: ""

@@ -18,10 +18,10 @@ aliases:
 Radio: 123,50\
 Fuel:\
 Taxi/Mat /Overnatting:\
-BJØRNEN http://www.bjornen.no/
+
 
 ## Lovdata
 
 Lovdata: PPR.   Lars Nordråk Adresse: Vestsidev. 572, 2860 Hov  Telefon: 61 12 70 72 Mobil: 414 11 642\
 E-post: larsnord@online.no\
-Her er det både sjøfly og hjulfly trafikk. Fly-In i august.
+Her er det både sjøfly og hjulfly trafikk.

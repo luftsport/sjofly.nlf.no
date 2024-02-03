@@ -1,7 +1,7 @@
 ---
 archetype: "location"
 id: 6
-title: "Stuorajávri/store Jotkavann"
+title: "Stuorajávri/ store Jotkavann"
 type: "Innlandsvann"
 regioner: ["Finnmark"]
 gps: "69° 46' 32.232\", 23° 49' 29.568\""

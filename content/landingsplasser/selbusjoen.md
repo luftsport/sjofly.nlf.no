@@ -10,7 +10,7 @@ elevation: "157 m (515 ft)"
 landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "Husk Jonsvatnet er stengt for fly"
-updated: "Sist oppdatert 7. desember 2018 av mikael"
+updated: "Sist oppdatert januar 2024 av mikael"
 aliases:
 - /vann/23
 ---
@@ -23,6 +23,8 @@ Stener Terning - mob: 918 91 400 -sterning@broadpark.no\
 Karl-Petter Knudsen - mob: 924 49 756 -knudsen@online.no
 
 ## Lovdata
+
+https://lovdata.no/forskrift/2009-10-26-1373
 
 Lovdata: Trondheim Flyklubb SPB.  Jonsvatnet er stengt for fly !\
 § 5.Luftfartøy\

@@ -27,7 +27,7 @@ uka rundt 1. mai hvert år.
 
 ## Lovdata
 
-	LOV-2015-06-19-67 fra 19.06.2021, LOV-2021-05-07-34 fra 01.06.2021
+https://lovdata.no/forskrift/2002-06-27-4874
 
 Lovdata: Landing og start med luftfartøy er\
 tillatt på vatna Otrøvatnet, Tyin, Bygdin og\

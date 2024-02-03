@@ -19,6 +19,5 @@ Radio:\
 Fuel:\
 Taxi/Mat/Overnatting:
 
-## Lovdata
-
-
+## FORSKRIFT FOR BRUK AV MOTOR-OG LUFTFARTØY PÅ VANN OG VASSDRAG I LIERNE KOMMUNE.\
+https://lovdata.no/forskrift/2017-06-22-1024/§5

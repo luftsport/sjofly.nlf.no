@@ -21,6 +21,6 @@ Taxi/Mat/Overnatting:
 
 ## Lovdata
 
-https://lovdata.no/forskrift/2023-09-07-1747
+https://lovdata.no/forskrift/2002-05-30-596
 
 

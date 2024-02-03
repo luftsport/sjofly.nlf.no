@@ -10,7 +10,7 @@ elevation: "418 m (1371 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 30. mai 2017 av mikael"
+updated: "Sist oppdatert januar 2024 av mikael"
 aliases:
 - /vann/18
 ---
@@ -26,4 +26,4 @@ Utover det som er dirkete hjemlet i lov, er landing og start med luftfartøy i u
 • Tunnsjøen\
 • Limingen\
 • Namsvatnet\
-https://www.royrvik.kommune.no/Handlers/fh.ashx?MId1=25&FilId=102
+https://lovdata.no/forskrift/2016-09-19-1106/§6

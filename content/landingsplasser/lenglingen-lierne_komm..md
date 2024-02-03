@@ -10,7 +10,7 @@ elevation: "354 m (1161 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: "Lenglingen i området utenfor Devika samt Mebygda"
-updated: "Sist oppdatert 2. juni 2017 av mikael"
+updated: "Sist oppdatert januar 2024 av mikael"
 aliases:
 - /vann/191
 ---

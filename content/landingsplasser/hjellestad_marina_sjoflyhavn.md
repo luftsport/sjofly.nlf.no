@@ -9,7 +9,7 @@ coordinates: [60.25659,5.2391]
 elevation: ""
 landing: "Tillatt"
 docking: "Småbåthavn"
-warning: ""
+warning: "NOTE: NÆR INNFLYGINGEN TIL FLESLAND (FINALE 35)"
 updated: "Sist oppdatert 31. mai 2017 av mikael"
 aliases:
 - /vann/160
@@ -19,4 +19,4 @@ Radio:  FLESLAND TWR 119.10\
 Fuel:  MOGAS\
 Brygge: FLYTEBRYGGE\
 Mat/Overnatting:\
-NOTE: NÆR INNFLYGINGEN TIL FLESLAND (FINALE 35)
+

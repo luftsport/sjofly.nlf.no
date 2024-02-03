@@ -1,7 +1,7 @@
 ---
 archetype: "location"
 id: 123
-title: "Ose camping, Åraksfjorden"
+title: "Reierfossen camping, Åraksfjorden"
 type: "Innlandsvann"
 regioner: ["Hardangervidda"]
 gps: "58° 56' 34.656\", 7° 41' 25.62\""
@@ -15,8 +15,7 @@ aliases:
 - /vann/202
 ---
 
-Se operativ info: http://cdn.dynify.com/files/0/2514/webroot/2017/07/06/ose_flyplass.pdf\
-Camping: https://www.facebook.com/ReiaarsfossenCamping/?fref=ts
+
 
 ## Lovdata
 

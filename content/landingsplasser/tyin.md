@@ -10,19 +10,21 @@ elevation: "1084 m (3553 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 30. mai 2017 av mikael"
+updated: "Sist oppdatert januar 2024 av mikael"
 aliases:
 - /vann/48
 ---
 
 Radio: 123,50\
-Vær:  http://www.yr.no/sted/Norge/Oppland/Vang/Tyinholmen/\
+Vær: \
 Taxi:\
 Fuel:\
-Webcam: http://www.tyinholmen.no/no/c-206-Webkamera.aspx\
+Webcam: \
 Mat/Seng: http://www.tyinholmen.no/       Tlf: 61 36 78 88
 
 ## Lovdata
+
+	LOV-2015-06-19-67 fra 19.06.2021, LOV-2021-05-07-34 fra 01.06.2021
 
 Lovdata: Landing og start med luftfartøy er\
 tillatt på vatna: Otrøvatnet, Tyin, Bygdin og\
@@ -31,5 +33,4 @@ Dette gjeld både på ope og islagd vatn.\
 På Tyin er det likevel ikkje lov å lande innafor ei sone\
 på 3 km frå Tyinosen (ÅRDALSFJORDEN)\
 (avgrensing Smogelva og Reikesteinsøddin).\
-https://lovdata.no/dokument/MV/forskrift/2002-06-27-\
-4874/%C2%A7amp%3B#§amp;
+

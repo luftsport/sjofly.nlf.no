@@ -10,7 +10,7 @@ elevation: "985 m (3231 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 30. mai 2017 av mikael"
+updated: "Sist oppdatert januar 2024 av mikael"
 aliases:
 - /vann/72
 ---
@@ -20,8 +20,8 @@ Fuel:\
 Taxi/Mat/Overnatting:
 
 ## Lovdata
-
+https://lovdata.no/forskrift/2020-05-27-1113
 Lovdata: I MEDHALD AV § 5 Generell løyve til:\
 A. landing og start med luftfartøy på:\
 Ustevann/Sløtfjorden, Ustedalsfjorden, Holsfjorden, Strandavatn og Stolsvassbassenget.\
-http://www.hol.kommune.no/holfiles/Tjenester/Natur_og_milj%c3%b8/Motori…
+

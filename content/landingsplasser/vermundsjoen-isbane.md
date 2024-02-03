@@ -9,7 +9,7 @@ coordinates: [60.70175,12.38124]
 elevation: "215 m (705 ft)"
 landing: "Kun på islagt vann"
 docking: "Ukjent"
-warning: "Tillat på isen om vinteren"
+warning: "Ukjent om det er tillatt ?"
 updated: "Sist oppdatert 1. juni 2017 av mikael"
 aliases:
 - /vann/44

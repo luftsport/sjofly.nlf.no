@@ -10,19 +10,20 @@ elevation: "820 m (2690 ft)"
 landing: "Tillatt"
 docking: "Strand"
 warning: ""
-updated: "Sist oppdatert 30. mai 2017 av mikael"
+updated: "Sist oppdatert januar 2024av mikael"
 aliases:
 - /vann/54
 ---
 
 Radio: 123,50\
-Vær/webcam: http://www.oset.no/no/vaermelding/\
+Vær/webcam:
 Fuel:\
 Taxi:\
 Mat/seng: OSET hotell www.oset.no \
-Det er vanligvis Splash-In ved Oset i slutten av september hvert år
+Det er vanligvis Splash-In ved Oset om høsten
 
 ## Lovdata
+https://lovdata.no/forskrift/2000-05-22-519
 
 Lovdata: Det vert gjeve generelt løyve til:\
 a. ferdsle med luftfartøy på - Tisleifjorden\
@@ -32,4 +33,8 @@ motorferdselloven § 5 (gjelder i den tiden\
 innsjøene er isfrie): Adgang til landing og\
 start med luftfartøy begrenses til\
 Strøndafjorden og Tisleifjorden.\
-http://www.lovdata.no/for/lf/mv/xv-20000522-0519.html
+
+
+
+
+

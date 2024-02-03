@@ -9,7 +9,7 @@ coordinates: [60.5203,11.93774]
 elevation: "176 m (577 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
-warning: "Sist oppdatert 25. august 2017 av mikael"
+warning: ""
 updated: "Sist oppdatert 25. august 2017 av mikael"
 aliases:
 - /vann/195

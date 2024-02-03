@@ -1,7 +1,7 @@
 ---
 archetype: "location"
 id: 2
-title: "Sjøflyhavna Kro (snarøya,fornebu)"
+title: "Sjøflyhavna Kro (snarøya, fornebu)"
 type: "Sjøhavn"
 regioner: ["Sjøhavner Oslo - Sørlandet"]
 gps: "59° 53' 37.14\", 10° 38' 1.104\""

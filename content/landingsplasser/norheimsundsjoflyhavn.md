@@ -9,8 +9,9 @@ coordinates: [60.37068,6.14813]
 elevation: ""
 landing: "Tillatt"
 docking: "Flytebrygge"
-warning: ""
-updated: "Sist oppdatert 31. mai 2017 av mikael"
+warning: "LOKAL MIKROFLY TRAFIKK FRA STEINSDALEN FLYSTRIPE
+Hardanger Mikroflyklubb."
+updated: "Sist oppdatert januar 2024 av mikael"
 aliases:
 - /vann/152
 ---
@@ -20,5 +21,6 @@ Fuel:\
 Taxi:\
 Brygge: HOTELL FLYTEBRYGGE\
 Mat: / Overnatting:  KIOSKER OG HOTELLER.\
-NOTE: LOKAL MIKROFLY TRAFIKK FRA SMÅ STRIPER.\
-SE RINGER
+
+
+

@@ -10,7 +10,7 @@ elevation: ""
 landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "OBS! ENR203 GND – 2000 MSL Restriktet område: Mongstad Raffineri"
-updated: "Sist oppdatert 31. mai 2017 av mikael"
+updated: "Sist oppdatert januar 2024 av mikael"
 aliases:
 - /vann/136
 ---
@@ -19,5 +19,5 @@ Radio: Flesland App 125,00  Atis 125,25\
 Fuel:  nil\
 Taxi/Mat/Overnatting: se Lindås Brygge\
 Brygge: Naustvika\
-Base for Nordhordland Flyklubb sin Cessna C-180 :LN-VYJ\
-Kart: OBS! ENR203 GND – 2000 MSL Restriktet område: Mongstad Raffineri
+Base for Nordhordland Flyklubb \
+

@@ -9,14 +9,14 @@ coordinates: [59.89289,10.59837]
 elevation: "0 m (0 ft)"
 landing: "Tillatt"
 docking: "Flytebrygge"
-warning: "PPR Robert Ian Ormerod Styreleder 91517504"
-updated: "Sist oppdatert 4. juli 2017 av mikael"
+warning: "styreleder Wolert Hvide mob +47 907 22 364"
+updated: "Sist oppdatert januar 2024 av mikael"
 aliases:
 - /vann/163
 ---
 
 Radio:  Oslo trafikk 122,00\
-Fuel:  kontakt Frank Jansen:  93431762\
+Fuel:  kontakt Trygve Haider mob +47 901 21 512\
 Taxi/Mat/Overnatting: Fornebu\
 Brygge: Flytebrygger, de fleste med fast plass for hjemmehørende sjøfly.\
 Kommentar: Kilen Sjøflyklubb. www.kilensjoflyklubb.no\

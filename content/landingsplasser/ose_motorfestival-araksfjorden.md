@@ -1,7 +1,7 @@
 ---
 archetype: "location"
 id: 123
-title: "Reierfossen camping, Åraksfjorden"
+title: "Reiårsfossen camping, Åraksfjorden"
 type: "Innlandsvann"
 regioner: ["Hardangervidda"]
 gps: "58° 56' 34.656\", 7° 41' 25.62\""

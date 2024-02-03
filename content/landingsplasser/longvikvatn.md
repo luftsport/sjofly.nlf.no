@@ -9,7 +9,7 @@ coordinates: [59.68091,8.11855]
 elevation: "697 m (2286 ft)"
 landing: "Ukjent"
 docking: "Ukjent"
-warning: "Sist oppdatert 5. desember 2018 av mikael"
+warning: ""
 updated: "Sist oppdatert 5. desember 2018 av mikael"
 aliases:
 - /vann/206

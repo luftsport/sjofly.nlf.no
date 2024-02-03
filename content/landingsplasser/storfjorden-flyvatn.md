@@ -1,7 +1,7 @@
 ---
 archetype: "location"
 id: 72
-title: "Storfjorden/flyvatn"
+title: "Storfjorden  flyvatn"
 type: "Innlandsvann"
 regioner: ["Jotunheimen"]
 gps: "60° 56' 1.212\", 8° 47' 44.088\""

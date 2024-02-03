@@ -10,13 +10,13 @@ elevation: "978 m (3208 ft)"
 landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "Kontakt Haukeliseter for bruk av brygge"
-updated: "Sist oppdatert 5. desember 2018 av mikael"
+updated: "Sist oppdatert januar 2024 av mikael"
 aliases:
 - /vann/204
 ---
 
-Haukeliseter vær: http://www.cumulus-support.no/kunder/haukeliseter/index.html\
-Webcam: http://94.139.67.154:50000/axis-cgi/jpg/image.cgi?resolution=800x500
+Haukeliseter vær: 
+Webcam: 
 
 ## Lovdata
 

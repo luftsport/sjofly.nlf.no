@@ -22,4 +22,4 @@ ENUL Ulven Flyplass http://www.osaeroklubb.no/
 
 ## Lovdata
 
-PPR: Øvreeide Gard v/Tore Øvreeide telefon 56309943 / 974 66 773.
+PPR: Øvreeide Gard v/Tore Øvreeide telefon +47 974 66 773.

@@ -28,4 +28,4 @@ https://lovdata.no/forskrift/2009-10-26-1373
 
 Lovdata: Trondheim Flyklubb SPB.  Jonsvatnet er stengt for fly !\
 § 5.Luftfartøy\
-Landing og start med luftfartøy er tillatt på Selbusjøen utenom området utenfor Neas utløp inkl. Putten og området innenfor området fra Nesøra – Siran. Du kan lande langt ute, og taxe inn til land her . Se røde linjer. Dette gjelder også om du skal besøke Trondheims Flyklubb SPB ved Selbu Camping, Innbygda.
+Landing og start med luftfartøy er tillatt på Selbusjøen utenom området utenfor Neas utløp inkl. Putten og området innenfor området fra Nesøra – Siran. Du kan lande langt ute, og taxe inn til land her. Dette gjelder også om du skal besøke Trondheims Flyklubb SPB ved Selbu Camping, Innbygda.

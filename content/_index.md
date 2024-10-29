@@ -16,16 +16,5 @@ NLF fraskriver seg ansvar for eventuelle feil i utgitte data. Alle presenterte d
 Redaktør: Mikael Aksdal, mikael@aksdal.no +47 908 62 901\
 NLF ski-& sjøfly komiteen, post@nlf.no .
 
-### Kjøpe sjøflyhåndboken ?
-
-Send e-post til post@nlf.no med navn, adresse og hvilke bøker du ønsker.\
-Pris kr. 400,- pluss porto kr. 100,- for sjøflyhåndboken del 1\
-Pris kr. 350,- pluss porto kr. 90,- for sjøflyhåndboken del 2\
-Bestilles begge er prisen kr. 600,- pluss porto kr. 200,-
-
-Bøkene kan også utleveres i Møllergata 39 i Oslo mellom kl. 08 – 15.
-
 > **_Only seaplanes and canoes can visit a wilderness
 > and leave no trace at all_**
-
-![Sjøflyhåndboken](/images/sjoflyhandboka.jpg)

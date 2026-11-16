@@ -10,7 +10,7 @@ elevation: ""
 landing: "Tillatt"
 docking: "Småbåthavn"
 warning: ""
-updated: "Sist oppdatert 31. mai 2017 av mikael"
+updated: "Sist oppdatert okt -26 av mikael"
 aliases:
 - /vann/170
 ---

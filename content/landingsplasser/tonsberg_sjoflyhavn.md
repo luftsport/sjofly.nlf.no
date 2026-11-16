@@ -15,8 +15,9 @@ aliases:
 - /vann/170
 ---
 
-Radio:  JARLSBERG, 122,30\
+Radio:  JARLSBERG, 135,215. Torp CTR 118,655\
 Fuel:\
 Taxi/ Mat/Overnatting:\
 Brygge: SAMÅBÅTHAVN\
-NB!  LUFTSPORT AKTIVITET PÅ JARLSBERG, NORD-VEST AV BYEN
+NB!  LUFTSPORT AKTIVITET PÅ JARLSBERG, NORD-VEST AV BYEN.
+HUSK: Be om klarering fra Torp CTR 118,655

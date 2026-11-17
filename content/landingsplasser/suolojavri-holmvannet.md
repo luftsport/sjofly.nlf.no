@@ -15,7 +15,7 @@ aliases:
 - /vann/16
 ---
 
-Radio: Alta Twr 118.10, 120.40, Atis 118.175\
+Radio: Alta Twr 120.405 Atis 118.180\
 Fuel:\
 Taxi: / Mat: /Overnatting:
 

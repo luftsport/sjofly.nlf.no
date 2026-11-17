@@ -10,12 +10,12 @@ elevation: "758 m (2486 ft)"
 landing: "Kun ved avtale"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 13. september 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/86
 ---
 
-Radio: 123,60    123,50\
+Radio: (123,60?) 123,065\
  Fuel:\
 Taxi/Mat/Overnatting:\
 Tillatelser: OBS ! Fjellfly helikopter trafikk:\

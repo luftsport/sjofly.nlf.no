@@ -10,12 +10,12 @@ elevation: "280 m (918 ft)"
 landing: "Tillatt"
 docking: "Strand"
 warning: ""
-updated: "Sist oppdatert 5. februar 2021 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/89
 ---
 
-Radio: 122,15 Fyresdal\
+Radio: 122,155 Fyresdal\
 Fuel:\
 Taxi/Mat/Overnatting: Fyresdal Hotell
 

@@ -10,12 +10,12 @@ elevation: "70 m (229 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 2. juni 2017 av mikael"
+updated: "Sist oppdatert okt-26-åringen av mikael"
 aliases:
 - /vann/12
 ---
 
-Radio: Banak twr 118,90 Atis 136,325\
+Radio: Banak twr 118,905 Atis 136,330\
 Fuel:    ?\
 Taxi/Mat/Overnatting:  ?
 

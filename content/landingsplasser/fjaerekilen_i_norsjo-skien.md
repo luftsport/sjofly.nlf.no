@@ -10,12 +10,12 @@ elevation: "16 m (52 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 9. juni 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/88
 ---
 
-Radio:  119,20 Geiteryggen  trafikk\
+Radio:  119,205 Geiteryggen  trafikk\
 Fuel:\
 Taxi/Mat/Overnatting: Skien\
 Geiteryggen Flyplass ENSN  frq: 119,20\

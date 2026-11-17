@@ -10,12 +10,12 @@ elevation: "16 m (52 ft)"
 landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "OBS ! Notodden Flyplass"
-updated: "Sist oppdatert januar 2024 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/81
 ---
 
-Radio: Notodden Afis 118,80\
+Radio: Notodden Afis 118,805\
 Fuel: 100LL (MoGas 5 min)\
 Taxi: Notodden\
 Overnatting: Camping eller Notodden\

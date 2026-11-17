@@ -10,12 +10,12 @@ elevation: "294 m (964 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 2. juni 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/9
 ---
 
-Radio:  Banak twr 118,90 Atis 136,325\
+Radio:  Banak twr 118,905 Atis 136,330\
 Vær:   http://www.yr.no/sted/Norge/Finnmark/Porsanger/Leaktoj%C3%A1vri/
 
 ## Lovdata

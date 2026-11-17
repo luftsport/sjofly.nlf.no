@@ -10,12 +10,12 @@ elevation: "918 m (3011 ft)"
 landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "Mye kommersiell trafikk med C-206"
-updated: "Sist oppdatert 5. desember 2018 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/82
 ---
 
-Radio: 123,50\
+Radio: 123,065\
 Fuel:  100LL i jaktsesongen (Tormod Hellerud)\
 Taxi/Mat/Overnatting: Skinnarbu Hotell (ligger i Vinje kommune )\
 Grensa går midt i vannet, så det tar ikke lange tida å taxe fra "Tinn siden" og inn til bryggene. Litt kronglete å lande på Vinje sida er det ved Skinnarbu også, da det er satt opp en del gule staker der ifbm inntaket til kraftstasjonen. På våren er det håpløst å bruke bryggene pga lav vannstand. Vannstanden hjelper seg i slutten av juni, begynnelsen av juli (som regel).\

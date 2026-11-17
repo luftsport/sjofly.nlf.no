@@ -10,12 +10,12 @@ elevation: "390 m (1279 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 30. mai 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/13
 ---
 
-Radio: Alta Twr 118.10 120.40 Atis 118.175\
+Radio: Alta Twr 120.405 Atis 118.180\
 Raske fakta: Iešjávri er en innsjø i kommunene Alta, Kautokeino og Karasjok i Finnmark fylke. Den er Finnmarks største innsjø, og den 15. største innsjøen i Norge, med et areal på 68,19 km² og en lengde på over 14 kilometer fra nord til sør. Wikipedia  Lengde:13 km     Område:68,16 km²    Strandlengde:164,7 km
 
 ## Lovdata

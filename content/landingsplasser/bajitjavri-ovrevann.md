@@ -10,7 +10,7 @@ elevation: "70 m (229 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert okt-26-åringen av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/12
 ---

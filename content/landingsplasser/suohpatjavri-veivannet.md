@@ -10,12 +10,12 @@ elevation: "390 m (1279 ft)"
 landing: "Ukjent"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 30. mai 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/15
 ---
 
-Radio: Alta Twr 118.10 120.40 Atis 118.175\
+Radio: Alta Twr 120.405 Atis 118.180\
 Fuel:\
 Taxi: /Mat: / Overnatting:
 

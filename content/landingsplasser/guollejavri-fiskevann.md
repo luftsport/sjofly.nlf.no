@@ -10,12 +10,12 @@ elevation: "514 m (1686 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 30. mai 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/10
 ---
 
-Radio:  Banak twr 118,90 Atis 136,325
+Radio:  Banak twr 118,905 Atis 136,330
 
 ## Lovdata
 

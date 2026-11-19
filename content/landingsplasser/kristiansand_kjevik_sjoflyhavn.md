@@ -10,12 +10,12 @@ elevation: ""
 landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "Kjevik Flyplass - kontakt tårnet 119,95"
-updated: "Sist oppdatert 31. mai 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/184
 ---
 
-Radio:  KJEVIK TWR 119,95 ATIS 124,475\
+Radio:  KJEVIK TWR 118,105 ATIS 124,480\
 Fuel:  100LL\
 Taxi/ Mat/Overnatting:\
 Brygge: FLYTEBRYGGE

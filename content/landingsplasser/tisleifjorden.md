@@ -10,12 +10,12 @@ elevation: "820 m (2690 ft)"
 landing: "Tillatt"
 docking: "Strand"
 warning: ""
-updated: "Sist oppdatert januar 2024av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/54
 ---
 
-Radio: 123,50\
+Radio: 123,065\
 Vær/webcam:
 Fuel:\
 Taxi:\

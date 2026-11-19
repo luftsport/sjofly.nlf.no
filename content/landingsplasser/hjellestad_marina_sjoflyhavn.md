@@ -10,12 +10,12 @@ elevation: ""
 landing: "Tillatt"
 docking: "Småbåthavn"
 warning: "NOTE: NÆR INNFLYGINGEN TIL FLESLAND (FINALE 35)"
-updated: "Sist oppdatert 31. mai 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/160
 ---
 
-Radio:  FLESLAND TWR 119.10\
+Radio:  FLESLAND TWR 119.105\
 Fuel:  MOGAS\
 Brygge: FLYTEBRYGGE\
 Mat/Overnatting:\

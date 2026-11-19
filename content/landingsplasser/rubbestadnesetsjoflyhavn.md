@@ -10,12 +10,12 @@ elevation: ""
 landing: "Tillatt"
 docking: "Småbåthavn"
 warning: ""
-updated: "Sist oppdatert 9. august 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/146
 ---
 
-Radio:  SØRSTOKKEN INFO 120,20\
+Radio:  SØRSTOKKEN INFO 120,205\
 Fuel:\
 Taxi:\
 Brygge:\

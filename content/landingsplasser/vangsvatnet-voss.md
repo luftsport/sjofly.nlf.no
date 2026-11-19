@@ -13,13 +13,13 @@ warning: "Vær obs på vinsjbåt med 2000 ft wire til paraglider.\
 Unngå trafikk i ro-klubbens bane.\
 OBS! Lokal trafikk med hangglidere, fallskjerm og seilfly.\
 Unngå operasjon før kl 13 om søn og hellig dager."
-updated: "Sist oppdatert januar 2024 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/109
 ---
 
-Radio: 123,50 Bømoen flyplass, (ENBM)\
-             123,50 Voss SPB (sjøflybase)\
+Radio: 123,066 Bømoen flyplass, (ENBM)\
+             123,065 Voss SPB (sjøflybase)\
 Fuel: Privat 100 LL på Bømoen. Ring for avtale.\
 MoGas fra Esso ved Kulturhuset.\
 Overnatting med plass for dokking på strand, ved\

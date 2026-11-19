@@ -10,12 +10,12 @@ elevation: "971 m (3185 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert januar 2024 av mikael"
+updated: "Sist oppdatert okt-26av mikael"
 aliases:
 - /vann/49
 ---
 
-Radio: 123,50\
+Radio: 123,065
 Vær: 
 Webcam:
 Fuel:  MoGas i Tyin krysset  

@@ -10,14 +10,14 @@ elevation: "445 m (1460 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 30. mai 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/107
 ---
 
 GPS: N 60 36’45’’ E 008 31’14’’ -\
 Elev: 1460 ft / 445 m\
-Radio: 123,50\
+Radio: 123,065\
 Fuel:\
 Taxi/Mat/Overnatting:
 

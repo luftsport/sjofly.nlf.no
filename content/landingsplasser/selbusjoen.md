@@ -10,12 +10,12 @@ elevation: "157 m (515 ft)"
 landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "Husk Jonsvatnet er stengt for fly"
-updated: "Sist oppdatert januar 2024 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/23
 ---
 
-Radio: 123,50\
+Radio: 123,065\
 Fuel:\
 Taxi: /Mat: / Overnatting:Selbu Camping (Trondheim FK - sjøflybase)\
 Kontakt evt:\

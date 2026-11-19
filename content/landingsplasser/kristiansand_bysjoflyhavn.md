@@ -10,12 +10,12 @@ elevation: ""
 landing: "Tillatt"
 docking: "Småbåthavn"
 warning: ""
-updated: "Sist oppdatert 31. mai 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/183
 ---
 
-Radio:  Kjevik Twr 119,95 Atis 124,475\
+Radio:  Kjevik Twr 118,105 Atis 124,480\
 Fuel:  100 LL Kjevik Lufthavn\
 Taxi/ Mat/Overnatting:\
 Brygge: SMÅBÅTHAVN, ØST I BYEN

@@ -9,13 +9,13 @@ coordinates: [62.25817,10.66738]
 elevation: "480 m (1579 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
-warning: "Tynset Traffic 122,30"
-updated: "Sist oppdatert ja uar 2024 av mikael"
+warning: "Tynset Traffic 123,065»
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/28
 ---
 
-Radio: Tynset Traffic 122,30\
+Radio: Tynset Traffic 123,,065\
 Operativt: https://www.tynsetflyklubb.no/operativt
 Taxi/Mat/Overnatting:
 

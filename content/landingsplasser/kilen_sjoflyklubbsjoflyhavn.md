@@ -10,12 +10,12 @@ elevation: "0 m (0 ft)"
 landing: "Tillatt"
 docking: "Flytebrygge"
 warning: "styreleder Wolert Hvide mob +47 907 22 364"
-updated: "Sist oppdatert januar 2024 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/163
 ---
 
-Radio:  Oslo trafikk 122,00\
+Radio:  Oslo trafikk 122,005\
 Fuel:  kontakt Trygve Haider mob +47 901 21 512\
 Taxi/Mat/Overnatting: Fornebu\
 Brygge: Flytebrygger, de fleste med fast plass for hjemmehørende sjøfly.\

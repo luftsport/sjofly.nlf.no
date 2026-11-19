@@ -10,10 +10,10 @@ elevation: ""
 landing: "Tillatt"
 docking: "Flytebrygge"
 warning: ""
-updated: "Sist oppdatert 31. mai 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/161
 ---
 
-Radio:  Flesland TWR 119,10  APP 125,00\
-Brygge: Sandviken sjøflybrygge. Generelt ikke tillatt å lande indre havn i Bergen, (Gravdalsneset-Fagerneset) bortsett fra i Sandviken området, fra Skolten til Fagerneset (Biskopshavn).
+Radio:  Flesland TWR 119,105 APP 126,105\
+Brygge: Sandviken sjøflybrygge. Generelt ikke tillatt å lande indre havn i Bergen, (Gravdalsneset-Fagerneset) bortsett fra i Sandviken området, fra Skolten til Fagerneset (Biskopshavn). Vær obs på luftsport fra Ulriken, og Luftambulanse til Sykehuset

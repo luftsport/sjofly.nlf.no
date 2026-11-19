@@ -10,12 +10,12 @@ elevation: "672 m (2204 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: "OBS! Vannet ligger inne i Røros TMA "
-updated: "Sist oppdatert 1. juni 2017 av mikael"
+updated: "Sist oppdater okt-26 av mikael"
 aliases:
 - /vann/26
 ---
 
-Radio: ENRO twr 120.40 Atis 136,35\
+Radio: ENRO twr 120.405 Atis 136,355\
 Fuel:  Røros\
 OBS! Vannet ligger inne i Røros TMA \
 Taxi: / Mat: / Overnatting: Røros\

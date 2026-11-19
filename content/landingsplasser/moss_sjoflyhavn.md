@@ -10,12 +10,12 @@ elevation: ""
 landing: "Tillatt"
 docking: "Småbåthavn"
 warning: ""
-updated: "Sist oppdatert 31. mai 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/167
 ---
 
-Radio: Oslo trafikk 122,00\
+Radio: Oslo trafikk 122,005\
 Fuel:\
 Taxi/Mat/Overnatting:\
 Brygge: SMÅBÅTHAVN

@@ -10,12 +10,12 @@ elevation: "355 m (1164 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 30. mai 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/53
 ---
 
-Radio: Leirin Afis 119,925 / på vannet 123,5\
+Radio: Leirin Afis 119,930/ på vannet 123,065\
 Fuel:  MoGas fra Shell, sør om hotellet\
 Taxi:\
 Mat: / Overnatting: Fagernes Camping og\

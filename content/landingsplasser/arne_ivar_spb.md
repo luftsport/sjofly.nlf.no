@@ -10,14 +10,14 @@ elevation: "365 m (1197 ft)"
 landing: "Tillatt"
 docking: "Strand"
 warning: "Slidrefjorden"
-updated: "Sist oppdatert 12. juni 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/194
 ---
 
 Arne Ivar Haugen, www.vpspes.com\
 +47 974 13 560, arne@vpspes.com, Tyinvegen 3170, 2967 Lomen.\
-Noen områder med lav vannstand. Radio : 123,50
+Noen områder med lav vannstand. Radio : 123,065\
 
 ## Lovdata
 

@@ -10,12 +10,12 @@ elevation: "123 m (403 ft)"
 landing: "Ikke lenger tillatt"
 docking: "Flytebrygge"
 warning: "OBS! Totenviken er naturreservat !"
-updated: "Sist oppdatert januar 2024 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/42
 ---
 
-Radio:  Stafsberget 130,275\
+Radio:  Stafsberget 130,280\
  Fuel:\
 Taxi/Mat/Overnatting:  Gjøvik,  \
 Toten kommune:\

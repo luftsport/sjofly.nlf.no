@@ -10,12 +10,12 @@ elevation: ""
 landing: "Tillatt"
 docking: "Flytebrygge"
 warning: ""
-updated: "Sist oppdatert 14. juni 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/164
 ---
 
-Radio:  Oslo trafikk 122,00\
+Radio:  Oslo trafikk 122,005\
 Fuel:  100 LL\
 Brygge: FLYTEBRYGGE,\
 Kontakt Carl-Christian Gunnestad +47 980 79 936\

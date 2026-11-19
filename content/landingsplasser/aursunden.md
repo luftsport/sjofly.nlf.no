@@ -10,12 +10,12 @@ elevation: "691 m (2267 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: "OBS! Vannet ligger inne i Røros TMA "
-updated: "Sist oppdatert 2. juni 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/25
 ---
 
-Radio: Røros Twr 120.40 Atis 136.350\
+Radio: Røros Twr 120.405 Atis 136.355\
 Fuel:  ENRO\
 Taxi/Mat/Overnatting: Røros\
 Ta gjerne kontakt med Røros Flyklubb: +47 958 45 061\

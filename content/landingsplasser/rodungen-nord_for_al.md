@@ -10,12 +10,12 @@ elevation: "1022 m (3353 ft)"
 landing: "Ikke lenger Tillatt"
 docking: "Ukjent"
 warning: "Ikke lenger tillatt"
-updated: "Sist oppdatert januar 2024 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/66
 ---
 
-Radio: 123,50\
+Radio: 123,065\
 Fuel:\
 Taxi/Mat/Overnatting:
 

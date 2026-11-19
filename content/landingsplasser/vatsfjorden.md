@@ -10,12 +10,12 @@ elevation: "736 m (2414 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert januar 2024 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/63
 ---
 
-Radio: 123,50\
+Radio: 123,065\
 Fuel:\
 Taxi/Mat/Overnatting:
 

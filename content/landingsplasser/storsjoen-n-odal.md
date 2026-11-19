@@ -10,12 +10,12 @@ elevation: "130 m (426 ft)"
 landing: "Kun på islagt vann"
 docking: "Ukjent"
 warning: "NB! Kun på isen med sportsfly!"
-updated: "Sist oppdatert 30. mai 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/43
 ---
 
-Radio: 123,50\
+Radio: 123,065\
  Fuel:\
 Taxi/Mat/Overnatting:
 

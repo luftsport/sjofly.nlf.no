@@ -10,12 +10,12 @@ elevation: "437 m (1433 ft)"
 landing: "Tillatt"
 docking: "Strand"
 warning: ""
-updated: "Sist oppdatert 7. juni 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/40
 ---
 
-Radio: 123,50\
+Radio: 123,065\
 Fuel:\
 Taxi/Mat/Overnatting:\
 Nordre Osen: http://www.osenadventure.no/

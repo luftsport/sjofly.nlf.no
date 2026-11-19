@@ -10,12 +10,12 @@ elevation: "337 m (1105 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: "OBS Mye luftsports aktivitet i Voss !"
-updated: "Sist oppdatert januar 2024 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/110
 ---
 
-Radio: 123,50\
+Radio: 123,065\
 Fuel: Privat 100 LL på Bømoen flyplass. ENBM.\
 MoGas fra Esso Vinje,krysset E16/R13.\
 Overnatting: Oppheim hotell. Vossestølen hotell.\

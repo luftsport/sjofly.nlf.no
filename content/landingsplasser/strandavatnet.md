@@ -10,12 +10,12 @@ elevation: "978 m (3208 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 16. september 2020 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/61
 ---
 
-Radio: 123,50\
+Radio: 123,065\
 Fuel:\
 Taxi:\
 Mat/Overnatting: Storestølen Fjellstuge

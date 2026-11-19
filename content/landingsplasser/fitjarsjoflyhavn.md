@@ -10,12 +10,12 @@ elevation: "0 m ( ft)"
 landing: "Tillatt"
 docking: "Flytebrygge"
 warning: ""
-updated: "Sist oppdatert 1. september 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/147
 ---
 
-Radio:  SØRSTOKKEN INFO 120,20\
+Radio:  SØRSTOKKEN INFO 120,205\
 Fuel:\
 Taxi:\
 Brygge: FLYTEBRYGGE\

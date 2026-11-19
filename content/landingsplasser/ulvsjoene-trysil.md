@@ -10,13 +10,13 @@ elevation: "521 m (1709 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 19. oktober 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/186
 ---
 
 To vann Nordre & søndre ligger øst om Osensjøen.\
-Radio: 123,50\
+Radio: 123,065\
 Fuel:\
 Taxi:\
 Mat:\

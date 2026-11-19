@@ -10,12 +10,12 @@ elevation: ""
 landing: "Tillatt"
 docking: "Flytebrygge"
 warning: ""
-updated: "Sist oppdatert 31. mai 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/165
 ---
 
-Radio: HOKKSUND 122,175\
+Radio: HOKKSUND 122,860\
 Fuel:\
 Taxi:\
 Brygge: PRIVAT\

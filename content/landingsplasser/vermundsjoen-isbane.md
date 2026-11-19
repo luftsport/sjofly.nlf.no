@@ -10,12 +10,12 @@ elevation: "215 m (705 ft)"
 landing: "Kun på islagt vann"
 docking: "Ukjent"
 warning: "Ukjent om det er tillatt ?"
-updated: "Sist oppdatert 1. juni 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/44
 ---
 
-Radio: 123,50\
+Radio: 123,065\
 Baneretning brøytet og kvistet: 1000 m bane 12 - 30\
 Mat/Overnatting: http://www.cafe-finnskog.com/
 

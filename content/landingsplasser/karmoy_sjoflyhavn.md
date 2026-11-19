@@ -10,12 +10,12 @@ elevation: ""
 landing: "Tillatt"
 docking: "Flytebrygge"
 warning: ""
-updated: "Sist oppdatert 9. august 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/142
 ---
 
-Radio:  KARMØY TWR 120,50 ATIS 118,175\
+Radio:  KARMØY TWR 120,505 ATIS 118,180\
 Fuel:  NIL\
 Taxi:\
 Brygge: FLYTEBRYGGE\

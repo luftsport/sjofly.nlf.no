@@ -10,14 +10,14 @@ elevation: "61 m (200 ft)"
 landing: "Kun ved avtale"
 docking: "Strand"
 warning: "Høy antennemast og spenn i vestre del."
-updated: "Sist oppdatert 8. juni 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/193
 ---
 
 Start og landing i vestre del mellom Øvreeide Gard og Langeholmen. \
 OBS:  Lokal seilflyaktivitet, særlig rundt Møsnuken 2000 ft.\
-Radio Ulven trafikk, bakkeradio: 123,50.\
+Radio Ulven trafikk, bakkeradio: 123,065\
 ENUL Ulven Flyplass http://www.osaeroklubb.no/
 
 ## Lovdata

@@ -10,12 +10,12 @@ elevation: "434 m (1423 ft)"
 landing: "Tillatt"
 docking: "Ukjent"
 warning: ""
-updated: "Sist oppdatert 30. mai 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/52
 ---
 
-Radio: 123,50\
+Radio: 123,065\
 Vær: http://www.yr.no/sted/Norge/Oppland/%C3%98\
 ystre_Slidre/Volbufjorden/\
 Webcam:\

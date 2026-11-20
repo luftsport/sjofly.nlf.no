@@ -10,12 +10,12 @@ elevation: ""
 landing: "Tillatt"
 docking: "Flytebrygge"
 warning: ""
-updated: "Sist oppdatert 9. august 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/140
 ---
 
-Radio:  SOLA TWR 118,35\
+Radio:  SOLA TWR 118,355\
 Fuel:\
 Taxi/ Mat: / Overnatting: STAVANGER\
 Brygge:

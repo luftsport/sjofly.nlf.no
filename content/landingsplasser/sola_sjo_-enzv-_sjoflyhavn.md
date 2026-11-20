@@ -10,13 +10,13 @@ elevation: ""
 landing: "Tillatt"
 docking: "Flytebrygge"
 warning: ""
-updated: "Sist oppdatert 9. august 2017 av mikael"
+updated: "Sist oppdatert okt-26 av mikael"
 aliases:
 - /vann/139
 ---
 
 Radio:\
-SOLA TWR 118,35 GND 121,75 ATIS 126,00 APP 119,60\
+SOLA TWR 118,355 GND 121,755 ATIS 126,005 APP 119,605\
 Fuel:  ENZV\
 Taxi/ Mat / Overnatting: FLYPLASS HOTELL\
 Brygge: FLYTEBRYGGE OG RAMPE VED FLYMUSEET\
